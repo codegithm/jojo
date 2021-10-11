@@ -3,3 +3,14 @@
   min-height: 100hv;
   background-color: #092b36;
 }
+.h5,
+h5,
+h4,
+h3,
+h2,
+h1,
+li,
+p {
+  font-size: 1.25rem;
+  color: #808e85;
+}
