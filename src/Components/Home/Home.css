@@ -18,20 +18,30 @@
 }
 
 .row img {
-  max-height: 400px;
-  width: auto;
+  max-height: auto;
   display: flex;
 }
 .pic {
   margin-top: 10px;
   margin-bottom: 10px;
+  max-width: 495px;
+  display: flex;
+  flex-direction: column;
 }
 .pic2 {
   margin-top: 10px;
   margin-bottom: 10px;
   max-height: auto !important;
-  width: auto;
+  max-width: 495px;
+  display: flex;
+  flex-direction: column;
 }
 .card-text ul {
   text-align: left;
+}
+.row {
+  max-width: 100%;
+}
+.mission {
+  margin-bottom: 10px;
 }

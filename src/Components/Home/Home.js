@@ -29,7 +29,7 @@ const Home = () => {
         ))}
       </div>
       <div className="row">
-        <div className="col-ms-12 col-md-6">
+        <div className="col-ms-12 col-md-6 mission">
           <Card
             title="The Mission and Vision Jojo Productions "
             content={
