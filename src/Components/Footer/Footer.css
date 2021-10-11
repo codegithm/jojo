@@ -1,0 +1,17 @@
+.footer {
+  height: auto;
+  width: 100%;
+  background: #f49f4b !important;
+  margin-top: 50px;
+  position: relative;
+  bottom: 0;
+  text-align: left;
+}
+
+.footer h4,
+li {
+  color: white;
+}
+.footer li {
+  list-style: none;
+}

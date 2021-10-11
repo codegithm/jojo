@@ -41,6 +41,8 @@
 }
 .row {
   max-width: 100%;
+  display: flex;
+  justify-content: center;
 }
 .mission {
   margin-bottom: 10px;
